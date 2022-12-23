@@ -1,0 +1,9 @@
+com\libManagement\BookAuthorAPI\controller\AuthorController.class
+com\libManagement\BookAuthorAPI\BookAuthorApiApplication.class
+com\libManagement\BookAuthorAPI\dao\AuthorsDao.class
+com\libManagement\BookAuthorAPI\controller\BookController.class
+com\libManagement\BookAuthorAPI\entities\Books.class
+com\libManagement\BookAuthorAPI\dao\BooksDao.class
+com\libManagement\BookAuthorAPI\services\BooksService.class
+com\libManagement\BookAuthorAPI\entities\Authors.class
+com\libManagement\BookAuthorAPI\services\AuthorsService.class
